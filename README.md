@@ -28,4 +28,4 @@ Python · SQL · LangChain · Google ADK · Microsoft Foundry · Streamlit · Gr
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/vaishnavisamal/) · [Portfolio](https://vaishnavisamal.github.io/portfolio/)
+[LinkedIn](https://linkedin.com/in/vaishnavisamal/) 
