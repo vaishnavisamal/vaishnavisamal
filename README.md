@@ -1,16 +1,36 @@
-## Hi there 👋
+# Vaishnavi Samal
 
-<!--
-**vaishnavisamal/vaishnavisamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-powered applications using Python, LLMs, and Generative AI.
 
-Here are some ideas to get you started:
+Currently exploring:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Agentic AI
+- RAG & semantic search
+- Multimodal AI
+- AI automation
+- LLM applications
+
+### Building
+
+🤖 AI Agents · 🧠 GenAI Applications · 🔎 RAG Systems · ⚙️ Python Automation
+
+### Selected Work
+
+[AI Meeting & Video Assistant] — Multilingual transcription, summarization & RAG  
+[Foundry AI Agent] — AI agents, tools & knowledge retrieval  
+[Google ADK Agent] — Gemini-powered agent with custom Python tools  
+[AI Resume Assistant] — LLM-powered resume analysis & career assistance  
+[AI Doctor Vision & Voice] — Multimodal AI with vision and voice
+
+### Stack
+
+Python · SQL · LangChain · Google ADK · Microsoft Foundry · Streamlit · Gradio · ChromaDB · Power BI
+
+### Connect
+Connect With Me
+
+LinkedIn
+
+Portfolio
+
+GitHub
