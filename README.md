@@ -27,10 +27,5 @@ Currently exploring:
 Python · SQL · LangChain · Google ADK · Microsoft Foundry · Streamlit · Gradio · ChromaDB · Power BI
 
 ### Connect
-Connect With Me
 
-LinkedIn
-
-Portfolio
-
-GitHub
+[LinkedIn](https://linkedin.com/in/vaishnavisamal/) · [Portfolio](https://vaishnavisamal.github.io/portfolio/)
